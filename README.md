@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games 
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on test network
-- 📫 How to reach me t.me/Munawir_CL
+- 📫 How to reach me
 
 <!---
 2Slow2Late/2Slow2Late is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
